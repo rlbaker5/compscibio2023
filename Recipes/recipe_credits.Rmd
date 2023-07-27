@@ -1,0 +1,23 @@
+---
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+# Credits for these recipes
+
+These recipes are all family recipes that have been traded around, handed down, modified and loved by several generations. I've stripped them of most of the personal details and stories, but rest assured they each have a their own special history and memories. 
+
+Four women contributed the most to these recipes.
+
+## Nona (1901-198?)
+"Nona" was born Leontina Lucci Cianfuglia and after marrying my great-grandfather became Leontina Lucci Cianfuglia Sestini. She was born in Italy in the municipality of Amelia and the Parish of Montecampano. She immigrated to the US through Ellis Island in 1938 and with brought her love of food and family with her. She passed away in the early 1980s.
+
+## Grandma (19??-2019)
+"Grandma" is Elizabeth Sestini, was born in the U.S. on April 2nd to Irish (John Devlin, 1890-1977) and German (Alice Solinger, 1891-1985) immigrants and later married my grandfather, Leo Sestini. Grandma and Grandpa Sestini ran a bar and restaurant for many years after WWII in Allentown, Pennsylvania. During this time, she incorporated much of the Italian traditions of my grandfather (who was no slouch in the kitchen himself) and Nona. The family, including my mother, lived above the restaurant and often helped in the kitchen. When Grandma visited us, the stove and oven seemingly never turned off. Visits to Grandma and Grandpa's house centered around eating: often breakfast morphed into lunch, which became dinner and it seemed we spent the whole day at the table eating and talking. Grandma had a fondness for sweets, many of which are showcased here. On one of the last occasions I visited with her, she served one of her famous cheesecakes. When she cut the cake, I protested that the piece was too big and I couldn't possible eat it. She replied "That piece isn't for you, it's for me."
+
+## Grandma Baker (19??-1982)
+"Grandma Baker" was born Viola Robie in the north woods of Wisconsin in a farmhouse near Loon Lake. She legally changed her name to Lila and married to become Lila Robie Baker. Stories about Lila admittedly do not often revolve around cooking or the kitchen. She was known to wear hip-waders and have a love of fishing, canoeing, and duck hunting. Her cooking was practical - at one point she divulged that her famous angel food cake was from a box! Her recipes tend to be straight forward but the ones shared here have stood the test of time. 
+
+## Mom (1947 - )
+"Mom" is Susan Sestini Baker. Its hard to put into words the energy, intellect and love my mother exudes. She often displays her love through making and sharing food. Unsurprisingly, she is primarily responsible for compiling these recipes, a small portion of which I've transcribed here. In addition to an outstanding career as a physician and a scientist, she has a voracious capacity for reading books and love of cooking. No one is quite sure where she gets the time to do all the things she does, but we suspect she doesn't sleep. She tends to dislike restaurants (having grown up working in one), but loves ethnic foods. And so many of the recipes she shared represent strong bonds she made as she traveled the world, with the patients she cared for, the students she mentored, and countless others she befriended with along the way. Growing up, I can remember my mom making almost all of these recipes, often with ingredients from her own garden. During visits home for Christmas, her kitchen counters are hard to see because they are so covered with cookies. Its not unusual for a package to show up at my door filled with home made granola, jams, honey, or specialty rices. When she visits, she prefers to fill her suitcase with imported Romano cheese and Colombian coffee rather than clothes.
